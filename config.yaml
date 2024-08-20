@@ -1,5 +1,5 @@
-baseURL: https://itzkavishka.github.io/
-title: itzKavishka
+baseURL: https://ogceylon.github.io/
+title: OGCEYLON
 languageCode: en-us
 paginate: 5
 theme: PaperMod
@@ -9,7 +9,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: G-BPT52JEEE4
+googleAnalytics: G-E7L5P3HRTQ
 
 minify:
   disableXML: true
@@ -17,10 +17,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: itzkavishka
+  title: OGCEYLON
   description: "Just a personal blog"
   keywords: [Blog, General, Linux, Windows, Android]
-  author: "Kavishka Dahanayaka"
+  author: "OGC"
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -87,7 +87,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "G-BPT52JEEE4"
+      SiteVerificationTag: "G-E7L5P3HRTQ"
     #bing:
     #  SiteVerificationTag: "XYZabc"
     #yandex:
@@ -99,7 +99,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/itzkavishka/itzkavishka.github.io/content"
+    URL: "https://github.com/ogceylon/ogceylon.github.io/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
