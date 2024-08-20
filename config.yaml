@@ -53,14 +53,14 @@ params:
     safari_pinned_tab: "/images/favicon/apple-icon.png"
   
   label:
-    text: "itzkavishka"
+    text: "OGCEYLON"
     icon: /images/favicon/favicon-32x32.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: itzkavishka
+    title: "OGCEYLON"
     subtitle: "Just a blog :)"
     imageUrl: "https://avatars.githubusercontent.com/u/82071300?v=4"
     imageWidth: 200 
