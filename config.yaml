@@ -59,7 +59,7 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: true # needs to be explicitly set
+    enabled: false # needs to be explicitly set
     title: itzkavishka
     subtitle: "Just a blog :)"
     imageUrl: "https://avatars.githubusercontent.com/u/82071300?v=4"
@@ -72,18 +72,18 @@ params:
       - name: Tags
         url: tags
 
-  # home-info mode
+  home-info mode:
   #homeInfoParams:
-  #  Title: "Kavishka Dahanayaka \U0001F44B"
-  #  Content: Just a personal blog
+    Title: "Kavishka Dahanayaka \U0001F44B"
+    Content: Just a personal blog innit :)
 
-  socialIcons:
-    - name: twitter
-      url: "https://twitter.com/xkavishka"
-    - name: github
-      url: "https://github.com/itzkavishka"
-    - name: youtube
-      url: "https://youtube.com/@kavishk4"
+  ##socialIcons:
+  ##  - name: twitter
+  #     url: "https://twitter.com/xkavishka"
+  #   - name: github
+  #     url: "https://github.com/itzkavishka"
+  #   - name: youtube
+  #     url: "https://youtube.com/@kavishk4"
 
   analytics:
     google:
