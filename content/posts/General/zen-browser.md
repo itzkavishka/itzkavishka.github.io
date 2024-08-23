@@ -34,5 +34,5 @@ editPost:
 ---
 
 Tried [ZEN](https://www.zen-browser.app/) browser on windows. Hot damn!👌
-Currently I've been using Brave browser coz there were no competitors when it comes to Windows.
+Currently I've been using [Brave](https://brave.com/) browser coz there were no competitors when it comes to Windows.
 Maybe this will be my all time best browser.(Atleast for now)
