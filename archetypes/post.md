@@ -5,7 +5,7 @@ draft: false
 # weight: 1
 # aliases: ["/first"]
 tags: ["General","Linux","Windows","Gaming"]
-author: "Kavishka Dahanayaka"
+author: "OGC"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false

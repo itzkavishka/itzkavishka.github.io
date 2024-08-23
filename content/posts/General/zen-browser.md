@@ -4,8 +4,8 @@ date: 2024-08-24T02:03:42+05:30
 draft: false
 # weight: 1
 # aliases: ["/first"]
-tags: ["General","Linux","Windows","Gaming"]
-author: "Kavishka Dahanayaka"
+tags: ["General","Windows","Browser","ZEN"]
+author: "OGC"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
