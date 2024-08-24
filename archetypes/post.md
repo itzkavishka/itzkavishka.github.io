@@ -4,6 +4,7 @@ date: {{ .Date }}
 draft: false
 # weight: 1
 # aliases: ["/first"]
+categories: ["General","Linux","Windows","Gaming"]
 tags: ["General","Linux","Windows","Gaming"]
 author: "OGC"
 # author: ["Me", "You"] # multiple authors
