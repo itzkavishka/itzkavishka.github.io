@@ -132,6 +132,10 @@ menu:
       name: Archive
       url: /archives/
       weight: 20
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 30
 #    - identifier: codecastlk
 #      name: codecastlk
 #      url: https://www.youtube.com/@codecastlk
