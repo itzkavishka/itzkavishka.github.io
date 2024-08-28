@@ -18,7 +18,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: OGCEYLON
-  description: "Just a personal blog"
+  description: "Just a blog :)"
   keywords: [Blog, General, Linux, Windows, Android]
   author: "OGC"
   # author: ["Me", "You"] # multiple authors
@@ -136,11 +136,7 @@ menu:
       name: About
       url: /about/
       weight: 30
-#    - identifier: codecastlk
-#      name: codecastlk
-#      url: https://www.youtube.com/@codecastlk
-#      weight: 25
-#      external: true
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
@@ -156,7 +152,6 @@ outputs:
     - HTML
     - RSS
     - JSON
-
 
 ### How to create a new post using hugo commands?
   # hugo new --kind post posts/General/Post-Title.md
