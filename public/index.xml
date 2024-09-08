@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jun 2024 06:27:49 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 24 Aug 2024 20:00:46 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 24 Aug 2024 20:00:46 +0530</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>about page</description>
+    </item>
     <item>
       <title>Straightforward Guide on Bypassing Internet Packages Using V2ray : No Nonsense Guide</title>
       <link>http://localhost:1313/posts/general/straightforward-guide-on-bypassing-internet-packages-using-v2ray-no-nonsense-guide/</link>
@@ -38,13 +45,6 @@ What is Chocolatey?</description>
       <guid>http://localhost:1313/posts/linux/how-to-clean-up-a-debian-os/</guid>
       <description>Introduction: Debian, known for its stability and reliability, can benefit from occasional cleanup to free up disk space and enhance system performance. In this guide, we&amp;rsquo;ll walk through essential steps to tidy up your Debian OS. Update and Upgrade: Keeping your system up-to-date is crucial. Run the following commands to ensure you have the latest software versions:
 sudo apt update sudo apt upgrade sudo apt dist-upgrade Autoremove: Remove packages that were automatically installed to satisfy dependencies but are no longer needed:</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>Hugo, the world’s fastest framework for building websites</description>
     </item>
   </channel>
 </rss>
