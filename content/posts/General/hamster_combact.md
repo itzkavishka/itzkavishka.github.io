@@ -34,6 +34,4 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-# Hamster Kombact Airdrop
-
 [Binance](https://www.binance.com) just announced that "[Hamster Kombact](https://hamsterkombatgame.io/)" will be launching on their platform. Honestly, I thought this would turn out to be a shitcoin and never make it to the launchpools. The coin has a 100B token supply, so I made some sell orders during the premarket on Bybit Exchange for $0.095 per coin. The official launch is set for the 25th of this month (Sept 2024). I'm gonna be rich, son—hopefully! 😂😂
