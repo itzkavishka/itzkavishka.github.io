@@ -82,9 +82,9 @@ params:
 #      - name: twitter
 #         url: "https://twitter.com/"
       - name: github
-         url: "https://github.com/ogceylon"
+        url: "https://github.com/ogceylon"
       - name: youtube
-         url: "https://youtube.com/@ogceylon"
+        url: "https://youtube.com/@ogceylon"
 
   analytics:
     google:
