@@ -1,30 +1,29 @@
-baseURL: https://ogceylon.github.io/
-title: OGCEYLON
-languageCode: en-us
+baseURL: "https://ogceylon.github.io/"
+title: "OGCEYLON"
+languageCode: "en-us"
 paginate: 5
-theme: PaperMod
+theme: "PaperMod"
 
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: G-E7L5P3HRTQ
+googleAnalytics: "G-E7L5P3HRTQ"
 
 minify:
   disableXML: true
   minifyOutput: true
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: OGCEYLON
+  env: production
+  title: "OGCEYLON"
   description: "Just a blog :)"
   keywords: [Blog, General, Linux, Windows, Android]
   author: "OGC"
-  # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: auto
   disableThemeToggle: false
 
   ShowReadingTime: true
@@ -45,7 +44,6 @@ params:
   enableJSONLD: true
 
   assets:
-    # disableHLJS: true # to disable highlight.js
     disableFingerprinting: true
     favicon: "/images/favicon/favicon.ico"
     favicon16x16: "/images/favicon/favicon-16x16.png"
@@ -58,9 +56,8 @@ params:
     icon: /images/favicon/favicon-32x32.png
     iconHeight: 35
 
-  # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
+    enabled: false
     title: "OGCEYLON"
     subtitle: "Just a blog :)"
     imageUrl: "https://avatars.githubusercontent.com/u/82071300?v=4"
@@ -73,39 +70,30 @@ params:
       - name: Tags
         url: tags
 
-  home-info mode:
-    homeInfoParams:
-      Title: "OGCEYLON \U0001F44B"
-      Content: Just a blog :)
+  homeInfoParams:
+    Title: "OGCEYLON 👋"
+    Content: Just a blog :)
 
-    socialIcons:
-#      - name: twitter
-#         url: "https://twitter.com/"
-      - name: github
-        url: "https://github.com/ogceylon"
-      - name: youtube
-        url: "https://youtube.com/@ogceylon"
+  socialIcons:
+    - name: github
+      url: "https://github.com/ogceylon"
+    - name: youtube
+      url: "https://youtube.com/@ogceylon"
 
   analytics:
     google:
       SiteVerificationTag: "G-E7L5P3HRTQ"
-    #bing:
-    #  SiteVerificationTag: "XYZabc"
-    #yandex:
-    #  SiteVerificationTag: "XYZabc"
 
   cover:
-    hidden: false # hide everywhere but not in structured data
-    hiddenInList: false # hide on list pages and home
-    hiddenInSingle: false # hide on single page
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false
 
   editPost:
     URL: "https://github.com/ogceylon/ogceylon.github.io/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    Text: "Suggest Changes"
+    appendFilePath: true
 
-  # for search
-  # https://fusejs.io/api/options.html
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
@@ -114,6 +102,7 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+
 menu:
   main:
     - identifier: search
@@ -137,7 +126,6 @@ menu:
       url: /about/
       weight: 30
 
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
   highlight:
@@ -147,11 +135,11 @@ markup:
     guessSyntax: true
     lineNos: true
     style: monokai
+
 outputs:
   home:
     - HTML
     - RSS
     - JSON
-
 ### How to create a new post using hugo commands?
 # hugo new --kind post posts/General/Post-Title.md
