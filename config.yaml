@@ -74,17 +74,17 @@ params:
         url: tags
 
   home-info mode:
-  #homeInfoParams:
-    Title: "Kavishka Dahanayaka \U0001F44B"
-    Content: Just a personal blog innit :)
+    homeInfoParams:
+      Title: "OGCEYLON \U0001F44B"
+      Content: Just a blog :)
 
-  ##socialIcons:
-  ##  - name: twitter
-  #     url: "https://twitter.com/xkavishka"
-  #   - name: github
-  #     url: "https://github.com/itzkavishka"
-  #   - name: youtube
-  #     url: "https://youtube.com/@kavishk4"
+    socialIcons:
+#      - name: twitter
+#         url: "https://twitter.com/"
+      - name: github
+         url: "https://github.com/ogceylon"
+      - name: youtube
+         url: "https://youtube.com/@ogceylon"
 
   analytics:
     google:
@@ -95,9 +95,9 @@ params:
     #  SiteVerificationTag: "XYZabc"
 
   cover:
-    hidden: true # hide everywhere but not in structured data
+    hidden: false # hide everywhere but not in structured data
     hiddenInList: false # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    hiddenInSingle: false # hide on single page
 
   editPost:
     URL: "https://github.com/ogceylon/ogceylon.github.io/content"
