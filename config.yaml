@@ -79,6 +79,8 @@ params:
       url: "https://github.com/ogceylon"
     - name: youtube
       url: "https://youtube.com/@ogceylon"
+    - name: tiktok
+      url: "http://tiktok.com/@ogceylon"
 
   analytics:
     google:
