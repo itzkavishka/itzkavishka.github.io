@@ -1,5 +1,5 @@
 ---
-title: "Electeed New President"
+title: "Elected New President"
 date: 2024-10-05T17:17:39+05:30
 draft: false
 # weight: 1
