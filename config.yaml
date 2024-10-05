@@ -81,7 +81,11 @@ params:
     - name: youtube
       url: "https://youtube.com/@ogceylon"
     - name: tiktok
-      url: "http://tiktok.com/@ogceylon"
+      url: "https://tiktok.com/@ogceylon"
+    - name: telegram
+      url: "https://t.me/ogceylon"
+    # - name: facebook
+    #   url: "https://facebook.com/ogceylon"
 
   analytics:
     google:
