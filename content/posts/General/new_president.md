@@ -1,11 +1,11 @@
 ---
-title: "Hamster Kombact"
-date: 2024-09-13T22:27:46+05:30
+title: "New_president"
+date: 2024-10-05T17:17:39+05:30
 draft: false
 # weight: 1
 # aliases: ["/first"]
-categories: ["General","Crypto"]
-tags: ["General","Crypto","Binance","Hamster Kombact","Tap To Earn"]
+categories: ["General","Linux","Windows","Gaming"]
+tags: ["General","Linux","Windows","Gaming"]
 author: "OGC"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -34,4 +34,8 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-[Binance](https://www.binance.com) just announced that "[Hamster Kombact](https://hamsterkombatgame.io/)" will be launching on their platform. Honestly, I thought this would turn out to be a shitcoin and never make it to the launchpools. The coin has a 100B token supply, so I made some sell orders during the premarket on Bybit Exchange for $0.095 per coin. The official launch is set for the 25th of this month (Sept 2024). I'm gonna be rich, son. —hopefully! 😂😂
+[Anura Kumara Dissanayake](https://en.wikipedia.org/wiki/Anura_Kumara_Dissanayake) was elected as the next president of Sri Lanka, as I predicted in my previous post about him. 
+This is a late post, but more people have changed their minds about him positively since his election and after he made some good changes. People initially thought he would be somewhat rough or fearful due to his somewhat Marxist/Leftist past.
+Hope for the best! 👐⚡️
+
+[Previous Post](https://ogceylon.github.io/posts/general/presidentialelectionsl2024/)
