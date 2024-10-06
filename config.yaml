@@ -94,7 +94,7 @@ params:
   cover:
     hidden: false
     hiddenInList: false
-    hiddenInSingle: false
+    hiddenInSingle: true
 
   editPost:
     URL: "https://github.com/ogceylon/ogceylon.github.io/content"
