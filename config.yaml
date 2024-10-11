@@ -76,7 +76,7 @@ params:
     Title: "OGCEYLON 👋"
     Content: Just a blog :)
 
-  socialIcons:
+  social:
     - name: github
       url: "https://github.com/ogceylon"
     - name: youtube
@@ -150,4 +150,4 @@ outputs:
     - RSS
     - JSON
 ### How to create a new post using hugo commands?
-# hugo new --kind post posts/General/Post-Title.md
+# hugo new --kind post posts/general/Post-Title.md
