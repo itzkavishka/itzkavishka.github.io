@@ -125,14 +125,19 @@ menu:
       name: Categories
       url: /categories/
       weight: 15
+    - identifier: hackernews
+      name: HackerNews
+      url: /hackernews/
+      weight: 20    
     - identifier: archive
       name: Archive
       url: /archives/
-      weight: 20
+      weight: 25
     - identifier: about
       name: About
       url: /about/
       weight: 30
+
 
 pygmentsUseClasses: true
 markup:
