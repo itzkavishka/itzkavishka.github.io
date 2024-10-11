@@ -39,7 +39,7 @@ Internet Wayback Machine Hacked, 31 Million Credentials Leaked
 
 --- 
 
-Looks like the [Internet Wayback Machine](https://archive.org/) has been hacked, with around 33 million user credentials stolen including Internet Archive's authentication database(About 6.4GB SQL file). The site’s been down for over a day now. If you've ever used the Internet Archive, there's a good chance your passwords might be out in the wild.
+Looks like the [Internet Wayback Machine](https://archive.org/) has been hacked, with around 31 million user credentials stolen including Internet Archive's authentication database(About 6.4GB SQL file). The site’s been down for over a day now. If you've ever used the Internet Archive, there's a good chance your passwords might be out in the wild.
 
 The hackers are claiming they’re pro-Palestine, but in my opinion, it’s likely that they’re not genuinely supporting that cause. No matter their intentions, this will impact all the users of the archive, and people will blame the hackers regardless.(That's one of the intentions,innit 😅)
 
