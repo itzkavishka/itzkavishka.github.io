@@ -1,7 +1,7 @@
 ---
 title: "Internet Archive Hacked"
 date: 2024-10-11T12:37:55+05:30
-draft: true
+draft: false
 # weight: 1
 # aliases: ["/first"]
 categories: ["General","Security",""]
@@ -12,7 +12,7 @@ showToc: true
 TocOpen: false
 hidemeta: false
 comments: true
-description: ""
+description: "Internet archive hacked by a "
 disableHLJS: false # to disable highlightjs
 disableShare: false
 ShowShareButtons: true
