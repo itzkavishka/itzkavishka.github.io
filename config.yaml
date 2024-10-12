@@ -19,11 +19,11 @@ minify:
 
 params:
   env: production
-  title: "OGCEYLON"
-  description: "Just a blog :)"
-  keywords: [Blog, General, Linux, Windows, Android]
+  title: "OGCEYLON - Just a personal blog :)"
+  description: "A comprehensive personal blog covering topics on Common Social Incidents,Linux, Windows, Android, Hacker News,Tech News and every kind of topics. Explore insightful articles and stay updated with the latest tech trends."
+  keywords: [Blog, Technology, Linux, Windows, Android, "Hacker News", "Tech News", "Software", "Hardware", "Tutorials","Politics","Thoughts", "ogceylon"]
   author: "OGC"
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["/images/favicon/favicon-32x32.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto
   disableThemeToggle: false
@@ -61,11 +61,11 @@ params:
   profileMode:
     enabled: false
     title: "OGCEYLON"
-    subtitle: "Just a blog :)"
+    subtitle: "Exploring the world of technology, one post at a time"
     imageUrl: "https://avatars.githubusercontent.com/u/82071300?v=4"
     imageWidth: 200 
     imageHeight: 200
-    imageTitle: github profile pic
+    imageTitle: OGC's GitHub Profile Picture
     buttons:
       - name: Posts
         url: posts
@@ -73,20 +73,20 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "OGCEYLON 👋"
-    Content: Just a blog :)
+    Title: "Welcome to OGCEYLON 👋❤️" 
+    Content: "Dive into a world of tech insights, tutorials, and the latest news on Linux, Windows, Android, and more. Join us on this exciting journey through the digital landscape!"
 
   social:
-    - name: github
+    - name: GitHub
       url: "https://github.com/ogceylon"
-    - name: youtube
+    - name: YouTube
       url: "https://youtube.com/@ogceylon"
-    - name: tiktok
+    - name: TikTok
       url: "https://tiktok.com/@ogceylon"
-    - name: telegram
+    - name: Telegram
       url: "https://t.me/ogceylon"
-    # - name: facebook
-    #   url: "https://facebook.com/ogceylon"
+    - name: RSS
+      url: "/index.xml"
 
   analytics:
     google:
@@ -138,7 +138,6 @@ menu:
       url: /about/
       weight: 30
 
-
 pygmentsUseClasses: true
 markup:
   highlight:
@@ -154,5 +153,16 @@ outputs:
     - HTML
     - RSS
     - JSON
+
+sitemap:
+  changefreq: weekly
+  priority: 0.5
+  filename: sitemap.xml
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
 ### How to create a new post using hugo commands?
 # hugo new --kind post posts/general/Post-Title.md

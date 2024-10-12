@@ -5,7 +5,7 @@ draft: false
 # weight: 1
 # aliases: ["/first"]
 categories: ["General","Linux","Windows","Gaming"]
-tags: ["seedr","torrenting","torrent to direct","general"]
+tags: ["seedr","torrenting","torrent to direct","general","OGCEYLON"]
 author: "OGC"
 # author: ["Me", "You"] # multiple authors
 showToc: true

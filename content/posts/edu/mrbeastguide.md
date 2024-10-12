@@ -5,7 +5,7 @@ draft: false
 # weight: 1
 # aliases: ["/first"]
 categories: ["General","Edu"]
-tags: ["General","MrBeast","Guide","Leaked"]
+tags: ["General","MrBeast","Guide","Leaked","OGCEYLON"]
 author: "OGC"
 # author: ["Me", "You"] # multiple authors
 showToc: true

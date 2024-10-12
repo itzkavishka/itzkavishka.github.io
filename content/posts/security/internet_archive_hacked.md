@@ -5,7 +5,7 @@ draft: false
 # weight: 1
 # aliases: ["/first"]
 categories: ["General","Security",""]
-tags: ["Internet Archive","WayBack Machine","Breach","Wayback Machine Hack"]
+tags: ["Internet Archive","WayBack Machine","Breach","Wayback Machine Hack","OGCEYLON"]
 author: "OGC"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -24,8 +24,8 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 cover:
     image: "https://blogger.googleusercontent.com/img/a/AVvXsEhKAaUkc647nSPF0-vJgKMn6sMKwBmQVoMmRMD1xlFH9kOrNidOHv0AXDGHSrG7S2zzTqvrgfs3A_C_M6yeKq3iqYAgvmlI2wEWOHQS-JOcoRlltzeNfOv7W2QKB5ntGnqoqc25x_P_RR8V5RvlxQiy4kkgtxxShfk1hO-8x55a5300s0vimlu6y1rsgjij" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    alt: "Internet Archive Website" # alt text
+    caption: "Maintance Page From Internet Archive" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:

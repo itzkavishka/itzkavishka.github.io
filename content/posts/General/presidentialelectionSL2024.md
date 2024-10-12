@@ -5,7 +5,7 @@ draft: false
 # weight: 1
 # aliases: ["/first"]
 categories: ["General"]
-tags: ["General","Presidential Election","Sri Lanka","2024","Anura Kumara Vs Sajith Premadasa"]
+tags: ["General","Presidential Election","Sri Lanka","2024","Anura Kumara Vs Sajith Premadasa","OGCEYLON"]
 author: "OGC"
 # author: ["Me", "You"] # multiple authors
 showToc: true

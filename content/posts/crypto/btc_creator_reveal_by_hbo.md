@@ -5,7 +5,7 @@ draft: false
 # weight: 1
 # aliases: ["/first"]
 categories: ["General","Crypto"]
-tags: ["Bitcoin Creator","Crypto","HBO","BTC","Money Electric: The Bitcoin Mystery"]
+tags: ["Bitcoin Creator","Crypto","HBO","BTC","Money Electric: The Bitcoin Mystery","OGCEYLON"]
 author: "OGC"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -24,8 +24,8 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 cover:
     image: "https://blogger.googleusercontent.com/img/a/AVvXsEgxt_9gNsiDuZysJjS_wAiWAYYmAQ5FfFsrhKPGCtm1NdocNCTQP5l3ulU_x0E83MYd4ZIfdlh_WTmwZHg9L1LchMUvnfYpiyr_hzdfiHIO6coLoKrQxs7-qzM9f-Kk06XjkeJUXfFPyXwUUm4kMIwnMJctUTGXuFJdVBiVSv0EZ6MOTGF3bb3YlXDLi5Km=w945-h600-p-k-no-nu" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    alt: "polymarket chart" # alt text
+    caption: "source:polymarket" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:

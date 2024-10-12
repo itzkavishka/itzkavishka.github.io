@@ -5,7 +5,7 @@ draft: false
 # weight: 1
 # aliases: ["/first"]
 categories: ["General","Crypto"]
-tags: ["General","Crypto","Hamster Combact","Airdrop","Tap To Earn","Blum Airdrop","CEXP Airdrop"]
+tags: ["General","Crypto","Hamster Combact","Airdrop","Tap To Earn","Blum Airdrop","CEXP Airdrop","OGCEYLON"]
 author: "OGC"
 # author: ["Me", "You"] # multiple authors
 showToc: true
