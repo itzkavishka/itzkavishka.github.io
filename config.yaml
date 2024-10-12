@@ -77,15 +77,15 @@ params:
     Content: "Dive into a world of tech insights, tutorials, and the latest news on Linux, Windows, Android, and more. Join us on this exciting journey through the digital landscape!"
 
   social:
-    - name: GitHub
+    - name: gitHub
       url: "https://github.com/ogceylon"
-    - name: YouTube
+    - name: youTube
       url: "https://youtube.com/@ogceylon"
-    - name: TikTok
+    - name: tikTok
       url: "https://tiktok.com/@ogceylon"
-    - name: Telegram
+    - name: telegram
       url: "https://t.me/ogceylon"
-    - name: RSS
+    - name: rss
       url: "/index.xml"
 
   analytics:
