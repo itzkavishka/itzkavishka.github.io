@@ -62,7 +62,7 @@ params:
     enabled: false
     title: "OGCEYLON"
     subtitle: "Exploring the world of technology, one post at a time"
-    imageUrl: "https://avatars.githubusercontent.com/u/82071300?v=4"
+    imageUrl: ""
     imageWidth: 200 
     imageHeight: 200
     imageTitle: OGC's GitHub Profile Picture
@@ -73,15 +73,15 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "Welcome to OGCEYLON 👋❤️" 
+    Title: "Welcome To OGCEYLON 👋❤️" 
     Content: "Dive into a world of tech insights, tutorials, and the latest news on Linux, Windows, Android, and more. Join us on this exciting journey through the digital landscape!"
 
-  social:
-    - name: gitHub
+  socialIcons:
+    - name: github
       url: "https://github.com/ogceylon"
-    - name: youTube
+    - name: youtube
       url: "https://youtube.com/@ogceylon"
-    - name: tikTok
+    - name: tiktok
       url: "https://tiktok.com/@ogceylon"
     - name: telegram
       url: "https://t.me/ogceylon"
