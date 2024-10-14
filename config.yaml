@@ -4,7 +4,7 @@ languageCode: "en-us"
 theme: "PaperMod"
 
 pagination:
-  pagerSize: 10
+  pagerSize: 8
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
