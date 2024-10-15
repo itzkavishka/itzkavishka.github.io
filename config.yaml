@@ -25,7 +25,7 @@ params:
   author: "OGC"
   images: ["/images/favicon/favicon-32x32.png"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto
+  defaultTheme: dark
   disableThemeToggle: false
 
   ShowReadingTime: true
