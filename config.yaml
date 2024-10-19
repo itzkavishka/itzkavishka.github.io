@@ -1,5 +1,5 @@
-baseURL: "https://ogceylon.github.io/"
-title: "OGCEYLON"
+baseURL: "https://itzkavishka.github.io/"
+title: "ITZKAVISHKA"
 languageCode: "en-us"
 theme: "PaperMod"
 
@@ -19,7 +19,7 @@ minify:
 
 params:
   env: production
-  title: "OGCEYLON - Just a personal blog :)"
+  title: "ITZKAVISHKA - Just a personal blog :)"
   description: "A comprehensive personal blog covering topics on Common Social Incidents,Linux, Windows, Android, Hacker News,Tech News and every kind of topics. Explore insightful articles and stay updated with the latest tech trends."
   keywords: [Blog, Technology, Linux, Windows, Android, "Hacker News", "Tech News", "Software", "Hardware", "Tutorials","Politics","Thoughts", "ogceylon"]
   author: "OGC"
@@ -60,7 +60,7 @@ params:
 
   profileMode:
     enabled: false
-    title: "OGCEYLON"
+    title: "ITZKAVISHKA"
     subtitle: "Exploring the world of technology, one post at a time"
     imageUrl: ""
     imageWidth: 200 
@@ -73,18 +73,18 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "Welcome To OGCEYLON 👋❤️" 
+    Title: "👋❤️" 
     Content: "Dive into a world of tech insights, tutorials, and the latest news on Linux, Windows, Android, and more. Join us on this exciting journey through the digital landscape!"
 
   socialIcons:
     - name: github
-      url: "https://github.com/ogceylon"
+      url: "https://github.com/itzkavishka"
     - name: youtube
       url: "https://youtube.com/@ogceylon"
     - name: tiktok
-      url: "https://tiktok.com/@ogceylon"
+      url: "https://tiktok.com/@itzkavishka"
     - name: telegram
-      url: "https://t.me/ogceylon"
+      url: "https://t.me/itzkavishka"
     - name: rss
       url: "/index.xml"
 
@@ -98,7 +98,7 @@ params:
     hiddenInSingle: true
 
   editPost:
-    URL: "https://github.com/ogceylon/ogceylon.github.io/content"
+    URL: "https://github.com/itzkavishka/itzkavishka.github.io/content"
     Text: "Suggest Changes"
     appendFilePath: true
 
