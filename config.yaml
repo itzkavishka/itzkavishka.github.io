@@ -21,7 +21,7 @@ params:
   env: production
   title: "ITZKAVISHKA - Just a personal blog :)"
   description: "A comprehensive personal blog covering topics on Common Social Incidents,Linux, Windows, Android, Hacker News,Tech News and every kind of topics. Explore insightful articles and stay updated with the latest tech trends."
-  keywords: [Blog, Technology, Linux, Windows, Android, "Hacker News", "Tech News", "Software", "Hardware", "Tutorials","Politics","Thoughts", "ogceylon"]
+  keywords: [Blog, Technology, Linux, Windows, Android, "Hacker News", "Tech News", "Software", "Hardware", "Tutorials","Politics","Thoughts", "itzkavishka"]
   author: "OGC"
   images: ["/images/favicon/favicon-32x32.png"]
   DateFormat: "January 2, 2006"
@@ -54,7 +54,7 @@ params:
     safari_pinned_tab: "/images/favicon/apple-icon.png"
   
   label:
-    text: "OGCEYLON"
+    text: "ITZKAVISHKA"
     icon: /images/favicon/favicon-32x32.png
     iconHeight: 35
 
