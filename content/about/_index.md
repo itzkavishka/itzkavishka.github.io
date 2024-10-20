@@ -9,24 +9,24 @@ description: Just a blog :)
 
 **Redirections**:
 
-- [**Awesome Piracy Resources**](https://ogceylon.github.io/piracy)
+- [**Awesome Piracy Resources**](https://itzkavishka.github.io/piracy)
   - Discover a curated list of useful tools and resources.
 
 - **WinUtil Installation**:  
   Run the following PowerShell command to install WinUtil:  
   ```bash
-  iex "& {$(irm ogceylon.github.io/win)}"
+  iex "& {$(irm itzkavishka.github.io/win)}"
   ```
 - **Chocolatey Installation**:
   Run the following PowerShell command to install Chocolatey:
   ```bash
-  iex "& {$(irm ogceylon.github.io/choco)}"
+  iex "& {$(irm itzkavishka.github.io/choco)}"
   ```
 
 ---
 **Contacts**:
 
-Telegram Channel : https://t.me/ogceylon
+Telegram Channel : https://t.me/itzkavishka
 
 <!-- HTML -->
 {{< rawhtml >}}

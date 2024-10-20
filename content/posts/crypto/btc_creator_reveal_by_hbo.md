@@ -23,7 +23,7 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 cover:
-    image: "https://blogger.googleusercontent.com/img/a/AVvXsEgxt_9gNsiDuZysJjS_wAiWAYYmAQ5FfFsrhKPGCtm1NdocNCTQP5l3ulU_x0E83MYd4ZIfdlh_WTmwZHg9L1LchMUvnfYpiyr_hzdfiHIO6coLoKrQxs7-qzM9f-Kk06XjkeJUXfFPyXwUUm4kMIwnMJctUTGXuFJdVBiVSv0EZ6MOTGF3bb3YlXDLi5Km=w945-h600-p-k-no-nu" # image path/url
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWRDEmTlDlFTOJ1S6i5YZTLTPTuDZKLKTT_95Q96eISXWLPMGmqgU1rkxHvoN-_2-23hoHEZSbqcH4svmXdqzXW8gQTRNhgNoM2IqyRxki7lPsyNs2lifVDlTsdzq1yy4HA9a9_QWISyWLpv1y7iFRNVBzI-1FJf0EsJcabuEK1EHhg01kgYtcpi1CIjg/s1120/Untitled%20design.png" # image path/url
     alt: "polymarket chart" # alt text
     caption: "source:polymarket" # display caption under cover
     relative: false # when using page bundles set this to true

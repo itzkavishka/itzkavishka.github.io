@@ -23,7 +23,7 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 cover:
-    image: "https://blogger.googleusercontent.com/img/a/AVvXsEhKAaUkc647nSPF0-vJgKMn6sMKwBmQVoMmRMD1xlFH9kOrNidOHv0AXDGHSrG7S2zzTqvrgfs3A_C_M6yeKq3iqYAgvmlI2wEWOHQS-JOcoRlltzeNfOv7W2QKB5ntGnqoqc25x_P_RR8V5RvlxQiy4kkgtxxShfk1hO-8x55a5300s0vimlu6y1rsgjij" # image path/url
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3Fxq6GN5TPiQ2GnVlcvEDFnpVTuFjfqeUsPYM_jmcVbm7Hqn7Wv8Z-i8esXDaprkf5HN5L3hk8gLbCM-yBeZfBe9lU7RA3XxWW0Qigxn-8hbzdd8AF4CIl65SLUAz6IuAXX9iW3wXMpDOr1ItozPhSAOkh_7tNTWSEJI4ZY4E6-jjyd9zm4HVY6m5HwA/s1120/Copy%20of%20Untitled%20Design.png" # image path/url
     alt: "Internet Archive Website" # alt text
     caption: "Maintance Page From Internet Archive" # display caption under cover
     relative: false # when using page bundles set this to true
