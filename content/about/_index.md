@@ -13,7 +13,7 @@ description: Just a blog :)
   - Discover a curated list of useful tools and resources.
 
 - **WinUtil Installation**:  
-  Run the following PowerShell command to install WinUtil:  
+  Run the following PowerShell command to run WinUtil by [Chris Titus](https://github.com/ChrisTitusTech/winutil) :  
   ```bash
   iex "& {$(irm itzkavishka.github.io/win)}"
   ```
